@@ -31,8 +31,6 @@ enum TEXT_FORMAT
 #define BOX_SIDE '#'
 #define BOX_WIDTH 70
 
-#define MAX_CONCERT_AVAIBLE 10
-
 #define UP_ARROW 72
 #define DOWN_ARROW 80
 #define ENTER_KEY 13
